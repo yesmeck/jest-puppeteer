@@ -1,7 +1,7 @@
 {
   "name": "@meck/jest-environment-puppeteer",
   "description": "Puppeteer environment for Jest.",
-  "version": "4.5.1",
+  "version": "4.5.2",
   "main": "index.js",
   "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
-    "@meck/jest-dev-server": "^4.5.1",
+    "@meck/jest-dev-server": "^4.5.2",
     "chalk": "^2.4.2",
     "cwd": "^0.10.0",
     "merge-deep": "^3.0.2"
