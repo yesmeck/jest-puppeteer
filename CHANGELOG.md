@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.5.0](https://github.com/yesmeck/jest-puppeteer/compare/v4.3.0...v4.5.0) (2019-11-21)
+
+
+### Bug Fixes
+
+* teardown browser in watch mode. ([#270](https://github.com/yesmeck/jest-puppeteer/issues/270)) ([04de87a](https://github.com/yesmeck/jest-puppeteer/commit/04de87a))
+
+
+### Features
+
+* **expect-puppeteer:** support frames ([#275](https://github.com/yesmeck/jest-puppeteer/issues/275)) ([09703ea](https://github.com/yesmeck/jest-puppeteer/commit/09703ea))
+
+
+
+
+
 # [4.4.0](https://github.com/yesmeck/jest-puppeteer/compare/v4.3.0...v4.4.0) (2019-11-21)
 
 
