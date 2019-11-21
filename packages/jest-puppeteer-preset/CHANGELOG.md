@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [4.5.0](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-puppeteer-preset/compare/v4.3.0...v4.5.0) (2019-11-21)
 
-**Note:** Version bump only for package @yesmeck/jest-puppeteer-preset
+**Note:** Version bump only for package @meck/jest-puppeteer-preset
 
 
 
@@ -13,7 +13,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [4.4.0](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-puppeteer-preset/compare/v4.3.0...v4.4.0) (2019-11-21)
 
-**Note:** Version bump only for package @yesmeck/jest-puppeteer-preset
+**Note:** Version bump only for package @meck/jest-puppeteer-preset
 
 
 

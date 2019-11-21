@@ -1,6 +1,6 @@
 {
-  "globalSetup": "@yesmeck/jest-environment-puppeteer/setup",
-  "globalTeardown": "@yesmeck/jest-environment-puppeteer/teardown",
-  "testEnvironment": "@yesmeck/jest-environment-puppeteer",
-  "setupFilesAfterEnv": ["@yesmeck/expect-puppeteer"]
+  "globalSetup": "@meck/jest-environment-puppeteer/setup",
+  "globalTeardown": "@meck/jest-environment-puppeteer/teardown",
+  "testEnvironment": "@meck/jest-environment-puppeteer",
+  "setupFilesAfterEnv": ["@meck/expect-puppeteer"]
 }

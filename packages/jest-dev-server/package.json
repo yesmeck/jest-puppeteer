@@ -1,5 +1,5 @@
 {
-  "name": "@yesmeck/jest-dev-server",
+  "name": "@meck/jest-dev-server",
   "description": "Starts a server before your Jest tests and tears it down after.",
   "version": "4.5.0",
   "main": "index.js",
