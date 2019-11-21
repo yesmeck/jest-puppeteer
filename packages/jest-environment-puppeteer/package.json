@@ -1,5 +1,5 @@
 {
-  "name": "jest-environment-puppeteer",
+  "name": "@yesmeck/jest-environment-puppeteer",
   "description": "Puppeteer environment for Jest.",
   "version": "4.3.0",
   "main": "index.js",
@@ -21,9 +21,9 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
+    "@yesmeck/jest-dev-server": "^4.3.0",
     "chalk": "^2.4.2",
     "cwd": "^0.10.0",
-    "jest-dev-server": "^4.3.0",
     "merge-deep": "^3.0.2"
   }
 }
